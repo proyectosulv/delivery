@@ -3,7 +3,7 @@ import 'package:flutter/scheduler.dart';
 
 import 'package:lottie/lottie.dart';
 import 'package:delivery_flutter/utils/my_colors.dart';
-import 'package:delivery_flutter/src/login/login_controller.dart';
+import 'package:delivery_flutter/src/pages/login/login_controller.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

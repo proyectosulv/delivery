@@ -1,7 +1,9 @@
-import 'package:delivery_flutter/src/login/login_page.dart';
-import 'package:delivery_flutter/src/register/resgister_page.dart';
-import 'package:delivery_flutter/utils/my_colors.dart';
 import 'package:flutter/material.dart';
+
+import 'package:delivery_flutter/utils/my_colors.dart';
+
+import 'package:delivery_flutter/src/pages/login/login_page.dart';
+import 'package:delivery_flutter/src/pages/register/resgister_page.dart';
 
 void main() {
   runApp(const MyApp());
